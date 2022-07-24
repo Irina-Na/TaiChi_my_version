@@ -8,7 +8,7 @@
     "gradient_accumulation_steps": 1,
     "learning_rate": 5e-05,
     "no_cuda": false,
-    "num_train_epochs": 5,
+    "num_train_epochs": 100,
     "pretrained_model_path": "/content/drive/Shareddrives/Chatbot/TaiChi/nli-pretrained-roberta-base",
     "save_result_fp": "/content/drive/Shareddrives/Chatbot/TaiChi/uslp_inference.json",
     "seed": 42,
